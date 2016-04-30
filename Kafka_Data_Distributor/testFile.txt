@@ -1,0 +1,3 @@
+Exception:This is test exception
+This is log line
+This is line 3

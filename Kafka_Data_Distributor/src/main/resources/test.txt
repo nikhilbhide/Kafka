@@ -1,0 +1,207 @@
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
+Google: date - 10/11/2012 19:00:00 , users - 2m , url - www.google.com; www.gmail.com, avg_response_time - 2ms
+Amazon: date - 10/11/2012 19:00:00 , users - 02m , url - www.amazon.com, avg_response_time - 2ms
+facebook:  date - 10/11/2012 19:00:00 , users - 12m , url - www.facebook.com; www.gmail.com, avg_response_time - 2ms
